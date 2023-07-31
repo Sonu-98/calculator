@@ -11,25 +11,27 @@ h1 {
 }
 
 #display {
-  width: 50%;
-  height: 5vh;
-  margin-left: 25%;
+  width: 30%;
+  height: 7vh;
+  margin-left: 35%;
   margin-bottom: 0.1em;
+  font-size: 1.9em;
+  text-align: right;
+  border: 2px solid black;
 }
 
 #btn-container {
-  width: 50%;
-  height: 50vh;
+  width: 30vw;
+  height: 60vh;
   background-color: #00e1ff;
   margin: auto;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items: center;
 }
 
 button {
-  width: 5.5em;
-  height: 5.5em;
+  width: 8.5em;
+  height: 8.5em;
 }
